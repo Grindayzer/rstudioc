@@ -1,0 +1,7 @@
+libstdc++6
+libgdal-dev
+libproj-dev
+libgeos-dev
+libudunits2-dev
+python3.6-dev
+gcc
