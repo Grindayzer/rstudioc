@@ -1,0 +1,30 @@
+channels:
+  - conda-forge
+dependencies:
+  - nbgitpuller
+  - gcc_linux-64
+  - gxx_linux-64
+  - libgcc
+  - jupyterlab
+  - r-base=4.0.3
+  - r-tidyverse
+  - r-rmarkdown
+  - r-httr
+  - r-shinydashboard
+  - r-leaflet
+  - r-ggplot2
+  - r-ggmap
+  - r-raster
+  - r-rgeos
+  - r-rgdal
+  - r-sp
+  - r-lubridate
+  - r-vegan
+  - r-ade4
+  - r-bookdown
+  - r-readxl
+  - r-sf
+  - r-tmap
+  - r-mapview
+  - r-dplyr
+  - r-maps
